@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/homework2/homework/homework/bin/Debug/net7.0/homework
+/Users/marinagrecko/Desktop/homework2/homework/homework/bin/Debug/net7.0/homework.deps.json
+/Users/marinagrecko/Desktop/homework2/homework/homework/bin/Debug/net7.0/homework.runtimeconfig.json
+/Users/marinagrecko/Desktop/homework2/homework/homework/bin/Debug/net7.0/homework.dll
+/Users/marinagrecko/Desktop/homework2/homework/homework/bin/Debug/net7.0/homework.pdb
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.dll
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/refint/homework.dll
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.pdb
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/homework.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/homework2/homework/homework/obj/Debug/net7.0/ref/homework.dll
